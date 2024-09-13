@@ -3,7 +3,7 @@ Grocery Store Shopping Website
 
 Steps to Follow:
 Download VS Code
-then open your folder throu VS code
+Open your folder throu VS code
 open terminal
 write in terminal- pip install -r requirements.txt
 then after it write - python main.py
